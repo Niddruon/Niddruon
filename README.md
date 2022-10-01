@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Niddruon/Niddruon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Niddruon / Niddruon هو مستودع ✨ خاص لأن `README.md` (هذا الملف) يظهر في ملفك الشخصي على GitHub.
+يمكنك النقر فوق الارتباط معاينة لإلقاء نظرة على تغييراتك.
 --->
